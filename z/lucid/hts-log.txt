@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 09 Dec 2021 14:46:16 at https://www.wrraptheme.com/templates/lucid/html/light/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.wrraptheme.com/templates/lucid/html/light/index.html -O1 "C:\My Web Sites\lucid" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:47:46	Error: 	"Not Found" (404) at link https://www.wrraptheme.com/templates/lucid/html/light/assets/img/weather_img.jpg (from https://www.wrraptheme.com/templates/lucid/html/light/assets/css/main.css)
+14:47:48	Error: 	"Not Found" (404) at link https://www.wrraptheme.com/templates/lucid/html/light/ec-product-detail.html (from https://www.wrraptheme.com/templates/lucid/html/light/widgets-ecommerce.html)
+14:47:51	Error: 	"Not Found" (404) at link https://www.wrraptheme.com/templates/lucid/html/light/cropped.jpg (from https://www.wrraptheme.com/templates/lucid/html/light/forms-cropping.html)
+14:47:51	Error: 	"Not Found" (404) at link https://www.wrraptheme.com/templates/lucid/html/assets/vendor/charts-c3/plugin.css (from https://www.wrraptheme.com/templates/lucid/html/light/chart-c3.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 35 seconds : 349 links scanned, 344 files written (14036356 bytes overall) [5689208 bytes received at 59886 bytes/sec], 10746364 bytes transferred using HTTP compression in 252 files, ratio 20%, 49.8 requests per connection
+(4 errors, 0 warnings, 0 messages)
